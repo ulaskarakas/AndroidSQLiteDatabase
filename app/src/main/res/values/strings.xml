@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite Database</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="list">Lıst</string>
+    <string name="delete">Delete</string>
+</resources>
